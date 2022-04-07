@@ -6,6 +6,7 @@ namespace BUS
 {
     public class Lop_BUS
     {
+        //comment
         Data da = new Data();
         Lop_DTO L = new Lop_DTO();
         //Hàm lấy thông tin lớp đó ra 1 datagridview
