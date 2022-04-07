@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\bin\Debug\net6.0-windows\DTO.deps.json
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.dll
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\refint\DTO.dll
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\DTO.pdb
+C:\Users\ADMIN\source\repos\MoHinh3Tang\DTO\obj\Debug\net6.0-windows\ref\DTO.dll
